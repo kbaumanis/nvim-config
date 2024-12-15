@@ -1,0 +1,15 @@
+set nocompatible
+set showmatch
+set number
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set cc=80
+set hlsearch
+set incsearch
+set expandtab
+syntax on
+set clipboard=unnamedplus
+set cursorline
+set ttyfast
